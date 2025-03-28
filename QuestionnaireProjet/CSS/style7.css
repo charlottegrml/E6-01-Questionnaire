@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap");
+
+body {
+  font-family: "Quicksand", cursive;
+  background-color: #8fc0a0;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='100%25' viewBox='0 0 1600 800'%3E%3Cg stroke='%23000' stroke-width='47.9' stroke-opacity='0.05' %3E%3Ccircle fill='%238FC0A0' cx='0' cy='0' r='1800'/%3E%3Ccircle fill='%237bb69d' cx='0' cy='0' r='1700'/%3E%3Ccircle fill='%2368ac9a' cx='0' cy='0' r='1600'/%3E%3Ccircle fill='%2355a297' cx='0' cy='0' r='1500'/%3E%3Ccircle fill='%23439795' cx='0' cy='0' r='1400'/%3E%3Ccircle fill='%23308c92' cx='0' cy='0' r='1300'/%3E%3Ccircle fill='%231c818f' cx='0' cy='0' r='1200'/%3E%3Ccircle fill='%2302768b' cx='0' cy='0' r='1100'/%3E%3Ccircle fill='%23006b87' cx='0' cy='0' r='1000'/%3E%3Ccircle fill='%23006081' cx='0' cy='0' r='900'/%3E%3Ccircle fill='%2300547a' cx='0' cy='0' r='800'/%3E%3Ccircle fill='%23024972' cx='0' cy='0' r='700'/%3E%3Ccircle fill='%23123d69' cx='0' cy='0' r='600'/%3E%3Ccircle fill='%231b325e' cx='0' cy='0' r='500'/%3E%3Ccircle fill='%23222752' cx='0' cy='0' r='400'/%3E%3Ccircle fill='%23251b45' cx='0' cy='0' r='300'/%3E%3Ccircle fill='%23260e38' cx='0' cy='0' r='200'/%3E%3Ccircle fill='%2326002A' cx='0' cy='0' r='100'/%3E%3C/g%3E%3C/svg%3E");
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+#grp {
+  color: white;
+  font-size: xx-large;
+  display: flex;
+  justify-content: space-between;
+  /* justify-content: center; */
+}
+
+.container {
+  display: grid;
+  justify-content: center;
+  justify-content: space-around;
+  justify-content: space-between;
+}
+
+h2 {
+  color: white;
+  text-align: center;
+}

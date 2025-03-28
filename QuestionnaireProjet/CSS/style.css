@@ -1,0 +1,113 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap");
+
+h1 {
+  display: flex;
+  flex: content;
+  justify-content: center;
+  margin-bottom: 40px;
+  font-size: 60px;
+  font-family: "Quicksand", cursive;
+}
+
+#ktn {
+  display: flex;
+  flex: content;
+  justify-content: center;
+}
+
+#mb-32,
+#mb-31,
+#mb-33,
+#mb-34,
+#mb-35 {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+td {
+  font-family: "Quicksand", cursive;
+}
+
+th {
+  font-family: "Quicksand", cursive;
+}
+
+body {
+  font-family: "Quicksand", cursive;
+  background-color: #ffffff;
+  background-color: #ffffff;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160' viewBox='0 0 200 200'%3E%3Cpolygon fill='%23DCEFFA' points='100 0 0 100 100 100 100 200 200 100 200 0'/%3E%3C/svg%3E");
+  min-height: 100vh;
+}
+
+#bodyadmin {
+  font-family: "Quicksand", cursive;
+  background-color: #cfa1ff;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='704' height='117.3' viewBox='0 0 600 100'%3E%3Cg stroke='%23ED9BFF' stroke-width='0' stroke-miterlimit='10' %3E%3Ccircle fill='%23037B79' cx='0' cy='0' r='50'/%3E%3Ccircle fill='%2392DEBA' cx='100' cy='0' r='50'/%3E%3Ccircle fill='%23FFFFD8' cx='200' cy='0' r='50'/%3E%3Ccircle fill='%23CAF2FF' cx='300' cy='0' r='50'/%3E%3Ccircle fill='%236FCCFF' cx='400' cy='0' r='50'/%3E%3Ccircle fill='%23006EB4' cx='500' cy='0' r='50'/%3E%3Ccircle fill='%23037B79' cx='600' cy='0' r='50'/%3E%3Ccircle cx='-50' cy='50' r='50'/%3E%3Ccircle fill='%2353ac9a' cx='50' cy='50' r='50'/%3E%3Ccircle fill='%23ceefc1' cx='150' cy='50' r='50'/%3E%3Ccircle fill='%23CFA1FF' cx='250' cy='50' r='50'/%3E%3Ccircle fill='%239de0fe' cx='350' cy='50' r='50'/%3E%3Ccircle fill='%233e9cda' cx='450' cy='50' r='50'/%3E%3Ccircle fill='%2300789c' cx='550' cy='50' r='50'/%3E%3Ccircle cx='650' cy='50' r='50'/%3E%3Ccircle fill='%23037B79' cx='0' cy='100' r='50'/%3E%3Ccircle fill='%2392DEBA' cx='100' cy='100' r='50'/%3E%3Ccircle fill='%23FFFFD8' cx='200' cy='100' r='50'/%3E%3Ccircle fill='%23CAF2FF' cx='300' cy='100' r='50'/%3E%3Ccircle fill='%236FCCFF' cx='400' cy='100' r='50'/%3E%3Ccircle fill='%23006EB4' cx='500' cy='100' r='50'/%3E%3Ccircle fill='%23037B79' cx='600' cy='100' r='50'/%3E%3Ccircle cx='50' cy='150' r='50'/%3E%3Ccircle cx='150' cy='150' r='50'/%3E%3Ccircle cx='250' cy='150' r='50'/%3E%3Ccircle cx='350' cy='150' r='50'/%3E%3Ccircle cx='450' cy='150' r='50'/%3E%3Ccircle cx='550' cy='150' r='50'/%3E%3C/g%3E%3C/svg%3E");
+}
+
+#nvuti {
+  background: white;
+  border-radius: 10px;
+  width: fit-content;
+  color: black;
+  margin-left: 17%;
+}
+
+#btnAnnuler {
+  background-color: darkblue;
+}
+
+#btninscription {
+  margin-left: 10%;
+}
+
+#container2 {
+  display: flex;
+  flex: content;
+  justify-content: center;
+  align-items: center;
+}
+
+#mdp2 {
+  display: flex;
+  justify-content: center;
+}
+#mdp {
+  text-align: center;
+}
+#bienvenue {
+  width: fit-content;
+  background-color: #dceffa;
+  border-radius: 15px;
+  padding: 5px;
+  display: flex;
+  justify-content: left;
+  color: #d6bdfe;
+}
+
+#lstquestionnaire {
+  width: fit-content;
+  height: 90px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: transparent;
+  border-radius: 15px;
+  padding: 5px;
+  display: flex;
+  margin-bottom: 10px;
+  color: #d6bdfe;
+}
+
+h1 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+#table {
+  color: #dceffa;
+  background-color: black;
+}
+
+label {
+  font-weight: bold;
+}

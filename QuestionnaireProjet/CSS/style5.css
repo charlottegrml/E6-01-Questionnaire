@@ -1,0 +1,104 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap");
+
+h1 {
+  display: flex;
+  flex: content;
+  justify-content: center;
+  margin-bottom: 40px;
+  font-size: 60px;
+  font-family: "Quicksand", cursive;
+}
+
+td {
+  font-family: "Quicksand", cursive;
+}
+
+th {
+  font-family: "Quicksand", cursive;
+}
+
+body {
+  font-family: "Quicksand", cursive;
+  background-color: #000000;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 2000 1500'%3E%3Cdefs%3E%3Crect fill='none' stroke-width='125.7' id='a' x='-400' y='-300' width='800' height='600'/%3E%3C/defs%3E%3Cg style='transform-origin:center'%3E%3Cg transform='rotate(41.4 0 0)' style='transform-origin:center'%3E%3Cg transform='rotate(-60.8 0 0)' style='transform-origin:center'%3E%3Cg transform='translate(1000 750)'%3E%3Cuse stroke='%23000' href='%23a' transform='rotate(3.8 0 0) scale(1.038)'/%3E%3Cuse stroke='%23000011' href='%23a' transform='rotate(7.6 0 0) scale(1.076)'/%3E%3Cuse stroke='%23000022' href='%23a' transform='rotate(11.4 0 0) scale(1.114)'/%3E%3Cuse stroke='%23000033' href='%23a' transform='rotate(15.2 0 0) scale(1.152)'/%3E%3Cuse stroke='%23000044' href='%23a' transform='rotate(19 0 0) scale(1.19)'/%3E%3Cuse stroke='%23000055' href='%23a' transform='rotate(22.8 0 0) scale(1.228)'/%3E%3Cuse stroke='%23000066' href='%23a' transform='rotate(26.6 0 0) scale(1.266)'/%3E%3Cuse stroke='%23000077' href='%23a' transform='rotate(30.4 0 0) scale(1.304)'/%3E%3Cuse stroke='%23000088' href='%23a' transform='rotate(34.2 0 0) scale(1.342)'/%3E%3Cuse stroke='%23000099' href='%23a' transform='rotate(38 0 0) scale(1.38)'/%3E%3Cuse stroke='%230000aa' href='%23a' transform='rotate(41.8 0 0) scale(1.418)'/%3E%3Cuse stroke='%230000bb' href='%23a' transform='rotate(45.6 0 0) scale(1.456)'/%3E%3Cuse stroke='%230000cc' href='%23a' transform='rotate(49.4 0 0) scale(1.494)'/%3E%3Cuse stroke='%230000dd' href='%23a' transform='rotate(53.2 0 0) scale(1.532)'/%3E%3Cuse stroke='%230000ee' href='%23a' transform='rotate(57 0 0) scale(1.57)'/%3E%3Cuse stroke='%2300F' href='%23a' transform='rotate(60.8 0 0) scale(1.608)'/%3E%3C/g%3E%3C/g%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+#container2 {
+  display: flex;
+  flex: content;
+  justify-content: center;
+}
+
+#deconnecteypnl {
+  display: flex;
+  justify-content: space-between;
+  margin-right: 3%;
+  margin-left: 3%;
+}
+#bienvenue {
+  width: fit-content;
+  background-color: transparent;
+  border-radius: 15px;
+  padding: 5px;
+  display: flex;
+  justify-content: left;
+  color: white;
+}
+
+#lstthemes {
+  margin-right: 4%;
+  margin-bottom: 1%;
+  margin-left: 4%;
+  display: flex;
+  justify-content: space-between;
+}
+/* 
+#historique {
+  width: max-content;
+} */
+
+#thselect {
+  width: min-content;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#profil {
+  margin-left: 20px; /* Décale le bouton de 20px vers la droite */
+  margin-top: 10px; /* Décale le bouton de 10px vers le bas */
+}
+
+#lstquestionnaire {
+  width: fit-content;
+  height: 90px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: transparent;
+  border-radius: 15px;
+  padding: 5px;
+  display: flex;
+  margin-bottom: 10px;
+  color: white;
+}
+
+h1 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+/* #table {
+  color: #dceffa;
+  background-color: black;
+} */
+
+table {
+  opacity: 90%;
+}
+
+#table-striped {
+  table-layout: fixed;
+  width: 70%;
+  text-align: center;
+  background-color: transparent;
+  color: white;
+}

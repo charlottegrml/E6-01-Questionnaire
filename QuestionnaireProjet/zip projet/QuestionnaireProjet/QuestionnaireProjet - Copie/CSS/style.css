@@ -1,0 +1,99 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap");
+
+h1 {
+  display: flex;
+  flex: content;
+  justify-content: center;
+  margin-bottom: 40px;
+  font-size: 60px;
+  font-family: "Quicksand", cursive;
+}
+
+#ktn {
+  display: flex;
+  flex: content;
+  justify-content: center;
+}
+
+#mb-32,
+#mb-31,
+#mb-33,
+#mb-34,
+#mb-35 {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+td {
+  font-family: "Quicksand", cursive;
+}
+
+th {
+  font-family: "Quicksand", cursive;
+}
+
+body {
+  font-family: "Quicksand", cursive;
+  background-color: #ffffff;
+  background-color: #ffffff;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160' viewBox='0 0 200 200'%3E%3Cpolygon fill='%23DCEFFA' points='100 0 0 100 100 100 100 200 200 100 200 0'/%3E%3C/svg%3E");
+  min-height: 100vh;
+}
+
+#btnAnnuler {
+  background-color: darkblue;
+}
+
+#btninscription {
+  margin-left: 10%;
+}
+
+#container2 {
+  display: flex;
+  flex: content;
+  justify-content: center;
+  align-items: center;
+}
+
+#mdp2 {
+  display: flex;
+  justify-content: center;
+}
+#mdp {
+  text-align: center;
+}
+#bienvenue {
+  width: fit-content;
+  background-color: #dceffa;
+  border-radius: 15px;
+  padding: 5px;
+  display: flex;
+  justify-content: left;
+  color: #d6bdfe;
+}
+
+#lstquestionnaire {
+  width: fit-content;
+  height: 90px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: transparent;
+  border-radius: 15px;
+  padding: 5px;
+  display: flex;
+  margin-bottom: 10px;
+  color: #d6bdfe;
+}
+
+h1 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+#table {
+  color: #dceffa;
+  background-color: black;
+}
+
+label {
+  font-weight: bold;
+}
